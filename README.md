@@ -1,1 +1,1 @@
-This repository is being used to show some Jupyter Notebooks examples in Python
+# This repository is being used to collect the example files for the Bootcamp II on AI at SKEMA
